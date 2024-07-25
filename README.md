@@ -1,2 +1,5 @@
 # Japanese-listening-note
-This is my Japanese listening note
+
+これは、日本語勉強のために作ったノート。
+
+主に日本語聴解教材聞きながら、単語や文法、概要などを記録するためです。
